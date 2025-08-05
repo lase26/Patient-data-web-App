@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #f2f2f2;
+  color: #333;
+}
+
+.dashboard {
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.vitals {
+  margin-top: 20px;
+}
+
+.vital-item {
+  margin: 8px 0;
+}
+
+.chart-section {
+  margin-top: 30px;
+}
