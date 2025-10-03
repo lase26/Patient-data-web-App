@@ -8,7 +8,7 @@ const App = () => {
 
   // Load patient
   useEffect(() => {
-    const jessica = data.find(p => p.name === 'Jessica Taylor');
+    const jessica = data.find(p => p.name === 'Toluwani Taylor');
     console.log("Jessica:", jessica);
     setPatient(jessica);
   }, []);
